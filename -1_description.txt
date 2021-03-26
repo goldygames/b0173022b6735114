@@ -1,0 +1,5 @@
+<h2>About This Game</h2>
+
+Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or in Survival Mode, defend against monsters and dig deep into the world to discover the rarest ores. Do all this alone, or work together with your friends over the internet. Build, create, and explore!
+<br><br>
+The PC Java version is the first version of Minecraft to be released. Often referred to as Minecraft: Java Edition. It supports cross-platform play between Mac OS X, Linux, and Windows. This edition also supports user-created skins and MODS. It is the classic version.

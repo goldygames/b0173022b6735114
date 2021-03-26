@@ -1,0 +1,24 @@
+<h2>About This Game</h2>
+
+Crazy isometric race with stunning rock-music and varoom are born again! Motor Rock recreates the spirit and gameplay of the best oldschool 90’s race games. And The Rock’n’Roll Racing is certainly leader among them.<br><br>
+
+You have to control one of the participants of mortal intergalactic tournament and pave your way to the Cup through numerous kills, using new tactical opportunities of isometric camera or modern third person mode.<br><br>
+
+On your way to the 1st place will be formidable bosses, who represent 5 tournament planets and run updated cars, which can be defeated only with heavily-armed machines. 8 cars with unique armor and more than 10 additional equipable weapons are available.<br>
+If that is not enough, you can get a secret weapon and upgrades for special points given for double kills, driving the enemies down the road and many more.<br><br>
+
+Don’t you want a singleplayer mode? Join your partner in a multiplayer mode and win the Cup together! And check your skills fighting an aggressive CPU or other players on LAN play.<br><br>
+
+New opportunities for players who like game editing: you can create your own race tracks and modify any features including graphic, music and game mechanics.<br><br>
+
+<h2 class="bb_tag">Game features</h2>
+<ul>
+<li>Classic tournament with 4 enemies in a singleplayer mode and 5 in a multiplayer mode for 2 players</li>
+<li>Famous instrumental covers for oldschool rock-music hits and brand new bands!</li>
+<li>You can install up to 4 weapons on your car</li>
+<li>Well-known commentator Larry in 3 different versions</li>
+<li>A little bit old but still rocking characters fighting new enemies!</li>
+<li>Various weather conditions during race</li>
+<li>Destructible environment objects</li>
+<li>Up to 8 players in «VS. Mode»</li>
+</ul>
