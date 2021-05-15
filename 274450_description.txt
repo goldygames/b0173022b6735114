@@ -1,0 +1,11 @@
+<h2>About This Game</h2>
+						Use your arsenal of superpowers to stop Mojo Jojo's latest scheme in this brand-new Powerpuff Girls adventure shooter! Play as Blossom, Bubbles and Buttercup as you explore the far reaches of Townsville, battling Mojo's evil robots in a quest to get all your powers back.<h2 class="bb_tag">Key Features:</h2>
+<ul class="bb_ul">
+<li>	Explore four vast areas in a sprawling "Metroidvania" style adventure.
+<br></li><li>	Play as Blossom, Bubbles and Buttercup, and use each girl's unique powers to unlock new parts of the map.
+<br></li><li>	Battle tons of evil robots with different behaviors and attack patterns.
+<br></li><li>   Tackle four titanic boss battles.
+<br></li><li>	Find hidden upgrades to empower your heroes and learn new abilities.
+<br></li><li>	Choose the Modern look from the Powerpuff Girls special or the Classic look from the original series.
+<br></li><li>	Mojo's Key Quest, a "New Game+" mode that lets you replay the game with remixed rooms and all 3 girls powered up. 
+</li></ul>
